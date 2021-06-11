@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# About Me
 
-You can use the [editor on GitHub](https://github.com/Tarpelite/tianyuc.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Tianyu Chen (陈天宇), a first-year PhD student at Beihang University (former BUAA), supervised by Prof. Jianxin Li. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests include domain adaptation and pre-trained models, especially the privacy and robustness concerns in deep learning.
 
-### Markdown
+You can contact me via tianyuc[at]buaa[dot]edu[dot]cn .
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experience
 
-```markdown
-Syntax highlighted code block
+- **2019-2020** Research intern at Microsoft Research Asia
 
-# Header 1
-## Header 2
-### Header 3
+## Education
 
-- Bulleted
-- List
+- **2020 - Now**  PhD at Beihang University
+- **2016 - 2020** Undergraduate student at Honor class of Beihang University
 
-1. Numbered
-2. List
+## Publication
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tarpelite/tianyuc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
