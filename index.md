@@ -23,7 +23,9 @@ You can contact me via tianyuc[at]buaa[dot]edu[dot]cn .
 - **2020** **MindSpore Academic Fund**, Huawei Company
 - **2020** **Outstanding Graduate Student**, Beihang University
 - **2019** **Academic Excellent Scholarship**, The Honor College of Beihang Univisity
-- **2018** **Excellent Teaching Assistant**, The C Programming Course Group, Beihang University
+- **2018** **Excellent Teaching Assistant**, The C Programming Course Group, Beihang University  
+
+
 ## Publication
 
 - Pseudo‑Label Guided Unsupervised Domain Adaptation of Contextual Embeddings (EACL 2021 workshop)  
