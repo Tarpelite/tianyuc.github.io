@@ -1,13 +1,13 @@
 # About Me
 
-My name is Tianyu Chen (陈天宇), a first-year PhD student at Beihang University (former BUAA), supervised by [Prof. Jianxin Li](http://act.buaa.edu.cn/lijx/index.html). 
+My name is Tianyu Chen (陈天宇), a second-year PhD student at Beihang University (former BUAA), supervised by [Prof. Jianxin Li](http://act.buaa.edu.cn/lijx/index.html). 
 
-My research interests include domain adaptation and pre-trained models, especially the privacy and robustness concerns in deep learning.
+My research interests include domain adaptation, pre-trained models, and the privacy and robustness concerns in deep learning.
 
 You can contact me via tianyuc[at]buaa[dot]edu[dot]cn .
 
 ## Experience
-
+- **2021-Now**  Research intern at Natural Language Computing group of Microsoft Research Asia, mentored by Shaohan Huang.
 - **2020-2021** Research intern at Sinovation Ventures.
 - **2020-2020** Visiting Student at National Supercomputing Center of Wuxi.
 - **2019-2020** Research intern at Natural Language Computing group of Microsoft Research Asia, mentored by Shaohan Huang.
