@@ -1,6 +1,6 @@
 # About Me
 
-My name is Tianyu Chen (陈天宇), a second-year PhD student at Beihang University (former BUAA), supervised by [Prof. Jianxin Li](http://act.buaa.edu.cn/lijx/index.html). 
+My name is Tianyu Chen (陈天宇), a second-year PhD student at ACT Lab of Beihang University (former BUAA), supervised by [Prof. Jianxin Li](http://act.buaa.edu.cn/lijx/index.html). 
 
 My research interests include domain adaptation, pre-trained models, and the privacy and robustness concerns in deep learning.
 
