@@ -2,7 +2,7 @@
 
 My name is Tianyu Chen (陈天宇), a second-year PhD student at ACT Lab of Beihang University (former BUAA), supervised by [Prof. Jianxin Li](http://act.buaa.edu.cn/lijx/index.html). 
 
-My research interests include domain adaptation, pre-trained models, and the privacy and robustness concerns in deep learning.
+My research interests include domain adaptation, pre-trained models, and the privacy and security concerns in deep learning.
 
 You can contact me via tianyuc[at]buaa[dot]edu[dot]cn .
 
@@ -30,4 +30,8 @@ You can contact me via tianyuc[at]buaa[dot]edu[dot]cn .
 
 - Pseudo‑Label Guided Unsupervised Domain Adaptation of Contextual Embeddings (EACL 2021 workshop)  
   **Tianyu Chen**, Shaohan Huang, Furu Wei and Jianxin Li
+- Learning Music Sequence Representation From Text Supervision (ICASSP 2022)
+  **Tianyu Chen**, Yuan Xie, Shuai Zhang, Shaohan Huang, Haoyi Zhou, Jianxin Li
+- THE-X: Privacy-Preserving Transformer Inference with Homomorphic Encryption (ACL 2022)
+  **Tianyu Chen**, Hangbo Bao, Shaohan Huang, Li Dong, Binxing Jiao, Daxin Jiang, Haoyi Zhou, Jianxin Li, Furu Wei
 
