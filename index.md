@@ -28,10 +28,10 @@ You can contact me via tianyuc[at]buaa[dot]edu[dot]cn .
 
 ## Publication
 
-- Pseudo‑Label Guided Unsupervised Domain Adaptation of Contextual Embeddings (EACL 2021 workshop)  
+- *Pseudo‑Label Guided Unsupervised Domain Adaptation of Contextual Embeddings (EACL 2021 workshop)*  
   **Tianyu Chen**, Shaohan Huang, Furu Wei and Jianxin Li
-- Learning Music Sequence Representation From Text Supervision (ICASSP 2022)
+- *Learning Music Sequence Representation From Text Supervision (ICASSP 2022)*  
   **Tianyu Chen**, Yuan Xie, Shuai Zhang, Shaohan Huang, Haoyi Zhou, Jianxin Li
-- THE-X: Privacy-Preserving Transformer Inference with Homomorphic Encryption (ACL 2022)
+- *THE-X: Privacy-Preserving Transformer Inference with Homomorphic Encryption (ACL 2022)*  
   **Tianyu Chen**, Hangbo Bao, Shaohan Huang, Li Dong, Binxing Jiao, Daxin Jiang, Haoyi Zhou, Jianxin Li, Furu Wei
 
