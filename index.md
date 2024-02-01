@@ -1,6 +1,6 @@
 # About Me
 
-My name is Tianyu Chen (陈天宇), a third-year PhD student at ACT Lab of Beihang University (former BUAA), supervised by [Prof. Jianxin Li](http://act.buaa.edu.cn/lijx/index.html). 
+My name is Tianyu Chen (陈天宇), a fourth-year PhD student at ACT Lab of Beihang University (former BUAA), supervised by [Prof. Jianxin Li](http://act.buaa.edu.cn/lijx/index.html). 
 
 My research interests include domain adaptation, pre-trained models, and the privacy and security concerns in deep learning.
 
@@ -8,7 +8,7 @@ You can contact me via tianyuc[at]buaa[dot]edu[dot]cn .
 
 ## Experience
 - **2022-Now**  Co-founder of [SeekThoughts](https://www.seekthought.com/)(Invested by YC China)
-- **2021-2022**  Research intern at Natural Language Computing group of Microsoft Research Asia, mentored by Shaohan Huang.
+- **2021-2022** Research intern at Natural Language Computing group of Microsoft Research Asia, mentored by Shaohan Huang.
 - **2020-2021** Research intern at Sinovation Ventures.
 - **2020-2020** Visiting Student at National Supercomputing Center of Wuxi.
 - **2019-2020** Research intern at Natural Language Computing group of Microsoft Research Asia, mentored by Shaohan Huang.
